@@ -1,0 +1,1060 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"$modal",
+				"$modalInstance"
+			],
+			[
+				"bra",
+				"border-radius"
+			],
+			[
+				"b-ra",
+				"border-radius"
+			],
+			[
+				"ovs",
+				"ov-s	overflow: scroll;"
+			],
+			[
+				"tal",
+				"ta-l	text-align: left;"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"page",
+				"_page-header.scss"
+			],
+			[
+				"side",
+				"_sidebar.scss"
+			],
+			[
+				"content",
+				"_content.scss"
+			],
+			[
+				"scss",
+				"_iframe.scss"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"_hand",
+				"_handleError"
+			],
+			[
+				"url",
+				"urlBase"
+			],
+			[
+				"$ionic",
+				"$ionicSlideBoxDelegate"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"eslin",
+				"eslintOutput"
+			],
+			[
+				"ret",
+				"returns	@returns"
+			],
+			[
+				"br",
+				"brwoserConf"
+			],
+			[
+				"indent_s",
+				"indent_size"
+			],
+			[
+				"inde",
+				"indent_size"
+			],
+			[
+				"name",
+				"namespace	@namespace"
+			],
+			[
+				"$ioni",
+				"$ionicBackdrop"
+			],
+			[
+				"C",
+				"CONSTANTS"
+			],
+			[
+				"TEMPLA",
+				"TEMPLATES_EXT"
+			],
+			[
+				"TEMPLATES",
+				"TEMPLATES_PATH"
+			],
+			[
+				"Login",
+				"LoginCtrl"
+			],
+			[
+				"transp",
+				"transparentize	transparentize()"
+			],
+			[
+				"include",
+				"include	+include - Sass syntax"
+			],
+			[
+				"impot",
+				"important"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"transpare",
+				"transparent"
+			],
+			[
+				"import",
+				"important"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "# Site settings\ntitle: Paul Bulai\nemail: paul@bulai.me\nurl: https://paul.bulai.me\n#description: \"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.\"\n\n# Color settings (hex-codes without the leading hash-tag)\ncolor:\n  primary-dark: '#333333'\n  links: '#219ab3'\n\n# Footer settings\nfooter: Paul Bulai\n\n# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)\nsocial:\n  - title: twitter\n    url: https://twitter.com/pcbulai\n  - title: facebook\n    url: https://facebook.com/pcbulai\n  - title: github\n    url: https://github.com/pcbulai\n\n# Build settings\nmarkdown: kramdown\npermalink: pretty\n",
+			"file": "_config.yml",
+			"file_size": 807,
+			"file_write_time": 130775420930000000,
+			"settings":
+			{
+				"buffer_size": 807,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/contact.html",
+			"settings":
+			{
+				"buffer_size": 957,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 1362,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 540,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 122.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"setsyntax css3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"editor",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"snippet",
+				"Snippet: Prototype"
+			],
+			[
+				"ngdoc",
+				"Snippet: $ngdoc - @deprecated"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"doc",
+				"Git: Document Selection"
+			],
+			[
+				"do",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"docb",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"htmlbea",
+				"HTMLBeautify"
+			],
+			[
+				"htmlb",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"cssc",
+				"Run CSScomb"
+			],
+			[
+				"cssco",
+				"Run CSScomb"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"css c",
+				"Run CSScomb"
+			],
+			[
+				"syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"csscom",
+				"Run CSScomb"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"sassbea",
+				"SassBeautify: Convert from SASS to current type"
+			],
+			[
+				"lint",
+				"JSLint"
+			],
+			[
+				"jshin",
+				"JSHint"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git show",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"git",
+				"Git: Toggle Annotations"
+			],
+			[
+				"soda",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/paulbulai/Work/blog",
+		"/Users/paulbulai/Work/blog/_includes",
+		"/Users/paulbulai/Work/blog/_layouts",
+		"/Users/paulbulai/Work/blog/_posts",
+		"/Users/paulbulai/Work/blog/css",
+		"/Users/paulbulai/Work/blog/css/font-awesome",
+		"/Users/paulbulai/Work/blog/js"
+	],
+	"file_history":
+	[
+		"/Users/paulbulai/Work/blog/_posts/test.markdown",
+		"/Users/paulbulai/Work/blog/blog.sublime-project",
+		"/Users/paulbulai/Work/strkit/src/styles/layouts/_container.scss",
+		"/Users/paulbulai/Work/strkit/src/styles/components/_off-canvas.scss",
+		"/Users/paulbulai/Work/strkit/src/styles/components/_modal.scss",
+		"/Users/paulbulai/Work/strkit/src/styles/app.scss",
+		"/Users/paulbulai/Work/strkit/src/styles/layouts/_base.scss",
+		"/Users/paulbulai/Work/strkit/src/styles/modules/_mixins.scss",
+		"/Users/paulbulai/Work/strkit/src/styles/modules/_animations.scss",
+		"/Users/paulbulai/Work/strkit/src/app/team/team.html",
+		"/Users/paulbulai/Work/strkit/src/styles/modules/_vars.scss",
+		"/Users/paulbulai/Work/strkit/src/assets/images/jasmine.png",
+		"/Users/paulbulai/Work/strkit/src/assets/images/protractor.png",
+		"/Users/paulbulai/Work/strkit/src/app/components/modal-signin/signin.html",
+		"/Users/paulbulai/Work/strkit/src/assets/images/ui-bootstrap.png",
+		"/Users/paulbulai/Work/strkit/src/styles/components/_callout.scss",
+		"/Users/paulbulai/Work/strkit/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_buttons.scss",
+		"/Users/paulbulai/Work/strkit/src/app/components/modal-signin/signin.controller.js",
+		"/Users/paulbulai/Work/strkit/src/app/components/nav/navbar.controller.js",
+		"/Users/paulbulai/Work/strkit/src/app/components/modal-article/article.controller.js",
+		"/Users/paulbulai/Work/strkit/src/app/components/modal-article/article.html",
+		"/Users/paulbulai/Work/strkit/src/app/main/main.controller.js",
+		"/Users/paulbulai/Work/strkit/src/app/components/signin-modal/signin.controller.js",
+		"/Users/paulbulai/Work/strkit/src/app/index.js",
+		"/Users/paulbulai/Work/strkit/gulp/server.js",
+		"/Users/paulbulai/Work/strkit/src/app/components/signin-modal/signin.html",
+		"/Users/paulbulai/Work/strkit/gulp/scripts.js",
+		"/Users/paulbulai/Work/strkit/src/styles/layouts/_content.scss",
+		"/Users/paulbulai/Work/strkit/src/app/index.scss",
+		"/Users/paulbulai/Work/strkit/bower.json",
+		"/Users/paulbulai/Work/strkit/src/app/convos/convos.controller.js",
+		"/Users/paulbulai/Work/strkit/.jshintrc",
+		"/Users/paulbulai/Work/strkit/.gitignore",
+		"/Users/paulbulai/Work/strkit/node_modules/gulp-jshint/node_modules/jshint/src/vars.js",
+		"/Users/paulbulai/Work/strkit/src/app/team/team.controller.js",
+		"/Users/paulbulai/Work/strkit/src/app/convos/convos.html",
+		"/Users/paulbulai/Work/startupkit/app/styles/layouts/_content.scss",
+		"/Users/paulbulai/Work/strkit/src/styles/components/_buttons.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/layouts/_sidebar.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/modules/_animations.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/components/_articles.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/components/_buttons.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/modules/_mixins.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/layouts/_container.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/components/_modal.scss",
+		"/Users/paulbulai/Work/startupkit/app/index.html",
+		"/Users/paulbulai/Work/startupkit/app/notes.html",
+		"/Users/paulbulai/Work/startupkit/app/scripts/buttons.js",
+		"/Users/paulbulai/Work/startupkit/app/scripts/modal.js",
+		"/Users/paulbulai/Work/startupkit/app/fonts/bootstrap/glyphicons-halflings-regular.ttf",
+		"/Users/paulbulai/Work/startupkit/app/team.html",
+		"/Users/paulbulai/Work/startupkit/app/styles/layouts/_comments.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/app.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/components/_off-canvas.scss",
+		"/Users/paulbulai/Work/startupkit/app/scripts/main.js",
+		"/Users/paulbulai/Work/startupkit/app/styles/components/_side-nav.scss",
+		"/Users/paulbulai/Work/startupkit/app/menu.shtml",
+		"/Users/paulbulai/Library/Application Support/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/Users/paulbulai/Library/Application Support/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/Users/paulbulai/Library/Application Support/Sublime Text 3/Packages/User/CSScomb.sublime-settings",
+		"/Users/paulbulai/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/paulbulai/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/paulbulai/Work/startupkit/app/styles/modules/_vars.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/components/_page-header.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/layouts/_base.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/layouts/_chat.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/components/_callout.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/components/_card.scss",
+		"/Users/paulbulai/Work/startupkit/gulpfile.js",
+		"/Users/paulbulai/Work/startupkit/.gitignore",
+		"/Users/paulbulai/Work/startupkit/app/styles/patterns/_base.scss",
+		"/Users/paulbulai/Work/startupkit/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_buttons.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/patterns/_main.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/layouts/_navbar.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/patterns/_container.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/patterns/_iframe.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/patterns/_browser-upgrade.scss",
+		"/Users/paulbulai/Work/startupkit/startupkit.sublime-project",
+		"/Users/paulbulai/Work/startupkit/app/styles/components/_all.scss",
+		"/Users/paulbulai/Work/startupkit/app/scripts/classie.js",
+		"/Users/paulbulai/Work/startupkit/app/scripts/modernizr.js",
+		"/Users/paulbulai/Work/startupkit/app/styles/modules/_all.scss",
+		"/Users/paulbulai/Work/startupkit/app/styles/patterns/_all.scss",
+		"/Users/paulbulai/Work/startupkit/.editorconfig",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/modules/common/layout.jade",
+		"/Users/paulbulai/Work/talentlink/web/views/layout.jade",
+		"/Users/paulbulai/Work/talentlink/web/views/partials/header.jade",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/assets/css/components/all.less",
+		"/Users/paulbulai/Work/talentlink/web/views/main.jade",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/assets/css/modules/all.less",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/assets/css/modules/vars.less",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/assets/css/modules/mixins.less",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/assets/css/modules/icons.less",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/assets/css/profile-new.less",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/assets/css/layouts/offers.less",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/assets/css/components/wizard.less",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/assets/css/components/typography.less",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/assets/css/components/social-links.less",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/assets/css/components/side-nav.less",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/assets/css/components/navbar.less",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/assets/css/components/base.less",
+		"/Users/paulbulai/Work/talentlink/web/views/partials/footer.jade",
+		"/Users/paulbulai/Work/talentlink/gulpfile.js",
+		"/Users/paulbulai/Work/talentlink/tmp/locales/is.json",
+		"/Users/paulbulai/Work/talentlink/public/app/main/MainApp.js",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/App.js",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/Config.js",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/assets/translationsIS.js",
+		"/Users/paulbulai/Work/talentlink/public/app/admin/modules/companies/CompanyViewCtrl.js",
+		"/Users/paulbulai/Work/talentlink/public/app/admin/modules/offers/OffersEditCtrl.js",
+		"/Users/paulbulai/Work/talentlink/public/app/admin/modules/profiles/ProfileViewCtrl.js",
+		"/Users/paulbulai/Work/talentlink/public/app/admin/resources/Notifications.js",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/AppCtrl.js",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/modules/company/CompanyCtrl.js",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/modules/invite/InviteCtrl.js",
+		"/Users/paulbulai/Work/talentlink/public/app/profile/resources/Notifications.js",
+		"/Users/paulbulai/Work/chomped/app/common/views/error.html",
+		"/Users/paulbulai/Work/chomped/app/common/app.constant.js",
+		"/Users/paulbulai/Work/chomped/app/common/app.config.js",
+		"/Users/paulbulai/Work/chomped/app/common/logger.js",
+		"/Users/paulbulai/Work/chomped/.eslintrc",
+		"/Users/paulbulai/Work/chomped/app/common/app.core.js",
+		"/Users/paulbulai/Work/chomped/app/services/register.js",
+		"/Users/paulbulai/Work/chomped/scss/partials/_form.scss",
+		"/Users/paulbulai/Work/chomped/app/components/walkthrough/walkthrough.js",
+		"/Users/paulbulai/Work/chomped/app/components/menu/menu.js",
+		"/Users/paulbulai/Work/chomped/app/services/localstorage.js",
+		"/Users/paulbulai/Work/chomped/app/components/menu/menu.template.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+			"/Users/paulbulai/Work/strkit/src/",
+			"/Users/paulbulai/Work/strkit/src/styles/",
+			"/Users/paulbulai/Work/strkit/src/style/",
+			"/Users/paulbulai/Work/strkit/src/",
+			"/Users/paulbulai/Work/strkit/src/app/",
+			"/Users/paulbulai/Work/strkit/gulp",
+			"/Users/paulbulai/Work/startupkit/app/styles",
+			"/Users/paulbulai/Work/startupkit/app",
+			"<project>",
+			"/Users/paulbulai/Work/talentlink/",
+			"/Users/paulbulai/Work/talentlink/web",
+			"/Users/paulbulai/Work/talentlink/",
+			"/Users/paulbulai/Work/talentlink/public/app/profile/assets/css/",
+			"/Users/paulbulai/Work/talentlink/public/profile/assets/css/",
+			"/Users/paulbulai/Work/talentlink/",
+			"/Users/paulbulai/Work/talentlink/public/",
+			"/Users/paulbulai/Work/talentlink/public/app",
+			"/Users/paulbulai/Work/talentlink/",
+			"/Users/paulbulai/Work/chomped/app/",
+			"/Users/paulbulai/Work/chomped/",
+			"/Users/paulbulai/Work/chomped/app/",
+			"/Users/paulbulai/Work/chomped/gulp/",
+			"/Users/paulbulai/Work/chomped/app/",
+			"/Users/paulbulai/Work/chomped/",
+			"/Users/paulbulai/Work/chomped/www/views/",
+			"/Users/paulbulai/Work/chomped/scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&__",
+			"&--",
+			"header",
+			"main",
+			"__",
+			"(\\b)([_])([_])(\\b)",
+			"(\\b)([-])([-])(\\b)",
+			"effec",
+			"(\\b)([-])([-])(\\b)",
+			"--",
+			"__",
+			"--",
+			"__",
+			"--",
+			"btn-icon",
+			"danger",
+			" ;",
+			"!default",
+			"danger",
+			"--",
+			"exceprt",
+			"articles",
+			"browser",
+			"signIn",
+			"toggle",
+			"isOpen",
+			"toggle",
+			"togle",
+			"attributes",
+			"error",
+			"document",
+			"window",
+			"\"",
+			"btn",
+			"jshint",
+			"250x125",
+			"col-md-9",
+			"col-md-3",
+			"badge",
+			"padding",
+			"a {",
+			"left",
+			"!important",
+			"side",
+			"$purple",
+			"background",
+			"$purple",
+			"has-header",
+			"(\\b)([-])([-])(\\b)",
+			"--",
+			"9000",
+			"local",
+			"input",
+			"note",
+			"textarea",
+			"logout",
+			"article1",
+			"note",
+			"add",
+			"\"",
+			"page__interest",
+			"3 members",
+			"check-list-box",
+			"color",
+			"data",
+			"list-group",
+			"fixed",
+			"theme",
+			"seti",
+			"dialog",
+			"background",
+			"bac",
+			"data-modal",
+			"team 1",
+			"articles",
+			"bs-",
+			"newTeam",
+			"data-modal",
+			"serve",
+			"build",
+			"dist",
+			"serve",
+			"main",
+			"textarea",
+			"font-size",
+			"team",
+			"bower",
+			"button",
+			"btn--clear",
+			"@",
+			"data-close",
+			"modal-close",
+			"$purple",
+			"overflow",
+			"modal",
+			"img-thumbnail",
+			"interest",
+			"somemodal",
+			"modal",
+			"container",
+			"action",
+			"z-i",
+			"modal--open",
+			"modal--close",
+			"modal--open",
+			"some",
+			"dialog",
+			"dialog--open",
+			"dialog--close",
+			"dialog__content",
+			"dialog__overlay",
+			"dialog",
+			"onOpenDialog",
+			"transition",
+			"anim-effect-novak",
+			"icon",
+			"title",
+			"logo-talentlink.png",
+			"logo",
+			"title",
+			"#{title[lang]}",
+			"title",
+			"modal",
+			"delete a",
+			"modal-galler",
+			"editable-wrap {",
+			"editable-wrap{",
+			"editable-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"&-",
+			"-",
+			";",
+			"",
+			"'",
+			"250x250",
+			"col-md-10",
+			"col-md-2",
+			"-",
+			"'",
+			"",
+			"btn__primary--clear",
+			"$",
+			"img-responsive img-thumbnail",
+			"modal--is-open",
+			"modal--is-closed",
+			"modal--is-open",
+			"modal--open",
+			"modal--close",
+			"modal__content",
+			"modal__overlay",
+			"modal",
+			"click-animation",
+			"TalentLink.Me",
+			"vm",
+			"'",
+			"CONFIG",
+			"'",
+			"Logger",
+			"'",
+			"",
+			"'use strict'",
+			"'",
+			"",
+			"$scope",
+			"$log",
+			"vm",
+			"CONFIG_CONST",
+			"MY_CONST",
+			"DashCtrl",
+			"SpentBudgetCtrl",
+			"OrderHistoryCtrl",
+			"PreferencesCtrl",
+			"menu.order-history",
+			"/preferences",
+			"menu.preferences",
+			"menu.checkout",
+			"DashCtrl",
+			"DashboardCtrl",
+			"",
+			".15s",
+			"linear",
+			"99%",
+			"</label>\n        <div class=\"checkbox-wrapper\"></div>",
+			"button-round",
+			"$scope.backdrop",
+			"text-align: center;",
+			"button-group button-group-right",
+			"button-group-right"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								752,
+								752
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								885,
+								580
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_includes/head.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								760,
+								760
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								540,
+								540
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 26.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main.ht",
+				"src/app/main/main.html"
+			],
+			[
+				"modal",
+				"src/styles/components/_modal.scss"
+			],
+			[
+				"navba",
+				"src/app/components/nav/navbar.html"
+			],
+			[
+				"main",
+				"src/app/main/main.html"
+			],
+			[
+				"mixins",
+				"src/styles/modules/_mixins.scss"
+			],
+			[
+				"navbar",
+				"src/app/components/nav/navbar.html"
+			],
+			[
+				"vars",
+				"src/styles/modules/_vars.scss"
+			],
+			[
+				"container",
+				"src/styles/layouts/_container.scss"
+			],
+			[
+				"base.scss",
+				"src/styles/layouts/_base.scss"
+			],
+			[
+				"main.contro",
+				"src/app/main/main.controller.js"
+			],
+			[
+				"nav",
+				"src/app/components/nav/navbar.controller.js"
+			],
+			[
+				"sig",
+				"src/app/components/signin-modal/signin.html"
+			],
+			[
+				"modals",
+				"src/styles/components/_modal.scss"
+			],
+			[
+				"buttons",
+				"src/styles/components/_buttons.scss"
+			],
+			[
+				"main.",
+				"src/app/main/main.html"
+			],
+			[
+				"jshintrc",
+				".jshintrc"
+			],
+			[
+				"",
+				"src/styles/components/_articles.scss"
+			],
+			[
+				"button",
+				"src/styles/components/_buttons.scss"
+			],
+			[
+				"var",
+				"src/styles/modules/_vars.scss"
+			],
+			[
+				"mixin",
+				"app/styles/modules/_mixins.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "strt",
+		"selected_items":
+		[
+			[
+				"strt",
+				"~/Work/strkit/StrKit.sublime-project"
+			],
+			[
+				"bl",
+				"~/Work/grayscale-theme/blog.sublime-workspace"
+			],
+			[
+				"",
+				"~/Work/startupkit/startupkit.sublime-project"
+			],
+			[
+				"jivar",
+				"~/Work/jivaro/jivaro.sublime-project"
+			],
+			[
+				"tale",
+				"~/Work/talentlink/talentlink.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
