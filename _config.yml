@@ -1,26 +1,56 @@
-# Site settings
-title: Paul Bulai
+# Use this file to control the main attributes of the website
+
+# You
+name: Paul C. Bulai
+
+# Title for your site as it will appear in google
+# e.g. Resume, Curriculum Vitae, Work History
+title: Paul C. Bulai
+
+# SEO description
+description: Digital resume for Paul Bulai — developer, designer and ocasional guitar player.
+
+# URL of this resume
+url: 'http://paulbulai.work'
+
+# URL of your personal website (make same as URL if you don't have one)
+personal: 'http://paulbulai.work'
+
+# these should be pretty self-explanatory :-P
 email: paul@bulai.me
-url: https://paul.bulai.me
-#description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+twitter: pcbulai
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#333333'
-  links: '#F79A7E'
+# Show this in the footer
+copyright: All rights reserved.
 
-# Footer settings
-footer: Paul Bulai
+# What should the navigation be called?
+navigation: navigation
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/pcbulai
-  - title: facebook
-    url: https://facebook.com/pcbulai
-  - title: github
-    url: https://github.com/pcbulai
+# Google analytics ID: UA-XXXXX-X
+analytics: UA-64251206-1
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Jekyll assets gem
+assets:
+  dirname: assets
+  baseurl: /assets/
+  css_compressor: yui
+  js_compressor: yui
+  cachebust: hard
+  cache: false
+  gzip: nil # Cloudflare will do this
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+
+# Files in this repo that we don't want to go to the web
+exclude: [
+  'scss',
+  '*.rb',
+  '*.yml',
+  'vendor',
+  'Gemfile',
+  'Gemfile.lock',
+  '*.sh',
+  'README.md',
+  'LICENSE.md',
+]

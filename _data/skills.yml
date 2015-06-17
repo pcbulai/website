@@ -1,0 +1,41 @@
+- Languages:
+    primary:
+      - HTML
+      - CSS
+      - Javascript
+    secondary:
+      - Bash
+      - PHP
+      - Ruby
+      - Matlab
+- Frameworks:
+    primary:
+      - jQuery
+      - Ionic Framework
+      - AngularJS
+      - SASS
+      - LESS
+    secondary:
+      - EmberJS
+      - RequireJS
+      - Jade
+      - Handlebars
+      - LoDash
+      - DataTables
+      - Cordova
+      - PhoneGap
+- Tools:
+    primary:
+      - Gulp
+      - Grunt
+      - Yeoman
+    secondary:
+      - NPM
+- Systems:
+    primary:
+      - MacOS
+      - Debian
+      - Fedora
+    secondary:
+      - Vagrant
+      - Windows
