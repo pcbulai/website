@@ -1,0 +1,68 @@
+$dark: #233d4d;
+$purple: #372248;
+$red: #fe4650;
+$orange: #fe7f2d;
+$blue: #007aff;
+$green: #ee4db5;
+
+.app-bar,
+.app-bar-container {
+  background-color: $purple;
+}
+
+.navdrawer-container {
+  background: darken($purple, 5%);
+}
+
+.section {
+  h2.heading {
+    border-bottom: 1px solid transparent;
+    &-professional {
+      border-bottom-color: transparentize($orange, .85);
+      color: $orange;
+    }
+    &-education {
+      border-bottom-color: transparentize($green, .85);
+      color: $green;
+    }
+    &-projects {
+      border-bottom-color: transparentize($red, .85);
+      color: $red;
+    }
+    &-skills {
+      border-bottom-color: transparentize($blue, .85);
+      color: $blue;
+    }
+  }
+  .heading {
+    color: transparentize($dark, .15);
+  }
+  li,
+  p,
+  div {
+    color: transparentize($dark, .25);
+  }
+}
+
+.cloud-section {
+  margin-top: 10px;
+  h3 {
+    margin-bottom: 10px;
+  }
+
+  .secondary {
+    opacity: .5;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .section-professional {
+    margin-top: 60px;
+    h2 main {
+      padding-top: 10px;
+    }
+  }
+  .section main{
+    padding-top: 10px;
+  }
+}
