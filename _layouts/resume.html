@@ -2,12 +2,35 @@
 layout: main
 ---
 <nav class="navdrawer-container promote-layer">
-    <ul>
+    <ul class="nav">
         {% for section in site.data.sections %}
             <li><a href="#{{ section.id }}" class="to-{{ section.id }}">
                     {{ section.name }}
             </a></li>
         {% endfor %}
+        <li class="right social-items">
+          <a href="https://twitter.com/{{ site.twitter }}" target="_blank">
+            <i class="fa fa-twitter" id="twitter"></i>
+          </a>
+        </li>
+        <li class="social-items">
+          <a href="http://facebook.com/{{ site.facebook }}" target="_blank">
+            <i class="fa fa-facebook" id="facebook"></i>
+          </a>
+        </li>
+        <li class="social-items">
+          <a href="http://github.com/{{ site.github }}" target="_blank">
+            <i class="fa fa-github" id="github"></i>
+          </a>
+        </li>
+        <li class="social-items">
+          <a href="mailto:{{ site.email }}">
+            <i class="fa fa-envelope-o" id="email"></i>
+          </a>
+        </li>
+    </ul>
+    <ul class="social-items">
+
     </ul>
 </nav>
 

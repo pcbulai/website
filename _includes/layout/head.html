@@ -28,17 +28,7 @@
 <!-- Chrome Add to Homescreen -->
 <link rel="shortcut icon" sizes="196x196" href="images/touch/touch-icon-196x196.png">
 
-<!-- Javascript -->
-{% javascript jquery %}
-<script type="text/javascript">
-    labels = [
-    {% for section in site.data.sections %}
-        "{{section.id}}",
-    {% endfor %}
-    ];
-</script>
-{% javascript scroller %}
-{% javascript main %}
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
 <!-- stylesheets -->
 {% stylesheet h5bp %}

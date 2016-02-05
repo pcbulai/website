@@ -11,7 +11,7 @@
   when: Mar 2014 - December 2014
   desc: During my collaboration with dotBlue I had the opportunity to build a big payrolling platform for non-techy users. Besides that I helped adding new-age features to older websites and implement custom features in Magento based websites.
   bullets:
-    - Built a PasS for online transactions
+    - Built a PaaS for online transactions
     - Added responsiveness to old websites
 
 - org: Silentale Inc.
@@ -21,7 +21,7 @@
   desc:
     "Silentale played a huge role in my career, making me step from a junior to a much, much more experienced developer while increasingly harder challenges came along. I had to deal with large-scale applications, big-data platform, and none of the challenges could just pass by me.
 
-    
+
     It was here that I fell in love with bleeding edge technologies like Sass, Stylus, AngularJS, Zurb Foundation, HAML, Handlebars, Yeoman and Grunt."
 
 - org: FlashXML.net
