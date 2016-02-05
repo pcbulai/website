@@ -52,6 +52,9 @@ $pink: #e91e63;
       color: $blue;
     }
   }
+  &-professional .block:last-child{
+    padding-bottom: 0;
+  }
 
   .heading {
     color: transparentize($dark, .15);
