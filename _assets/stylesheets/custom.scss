@@ -76,30 +76,6 @@ $pink: #e91e63;
   }
 }
 
-@media only screen and (max-width: 767px) {
-  .section-professional {
-    margin-top: 60px;
-
-    h2 {
-      main {
-        padding-top: 10px;
-      }
-    }
-  }
-  .navdrawer-container {
-    background-color: darken($purple, 15%);
-    ul li {
-      border-color: darken($purple, 5%);
-    }
-  }
-
-  .section {
-    main {
-      padding-top: 10px;
-    }
-  }
-}
-
 .block {
   padding: 30px 0;
   .main-row,
@@ -166,6 +142,33 @@ footer {
       color: $dark;
       text-decoration: none;
       font-size: 1.75rem;
+    }
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .navdrawer-container li.social-items{
+    display: none;
+  }
+  .section-professional {
+    margin-top: 60px;
+
+    h2 {
+      main {
+        padding-top: 10px;
+      }
+    }
+  }
+  .navdrawer-container {
+    background-color: darken($purple, 15%);
+    ul li {
+      border-color: darken($purple, 5%);
+    }
+  }
+
+  .section {
+    main {
+      padding-top: 10px;
     }
   }
 }
