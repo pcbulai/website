@@ -7,6 +7,8 @@ do ->
   main = $('main')
   socialLinks = $('.social-items')
 
+  console.log 'testing git submodule huraaay'
+
   closeMenu = ->
     appbar.classList.remove('open')
     navbar.classList.remove('open')
