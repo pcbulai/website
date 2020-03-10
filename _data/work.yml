@@ -8,7 +8,7 @@
   As part of our collaboration I was tasked with:"
   bullets:
     - Redesigning the admin application;
-    - Redesignning the user application;
+    - Redesigning the user application;
     - Building a turn-by-turn navigation app used for vehicle drivers' training;
     - Implementing WCAG 2.0 guidelines in both admin and user applications;
     - Improving web app performance;
