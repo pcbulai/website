@@ -38,11 +38,14 @@ body {
 .section {
   h2.heading {
     margin: 0 auto;
-    width: 80%;
     border-bottom: 1px solid transparent;
     border-bottom-color: transparentize($dark, .85);
     color: $dark;
     font-weight: 400;
+
+    @media (min-device-width: 1200px) {
+      width: 864px;
+    }
 
     // &-work {
     //   color: $pink;
