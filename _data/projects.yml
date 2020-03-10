@@ -1,31 +1,20 @@
-- org:  DoubleMap
-  role: Web designer & front-end developer
-  location: Iasi, RO
-  when: January 2016 - Now
-  desc:
-
 - org:  Startupkit.io
   role: Lead developer
-  location: Iasi, RO
-  when: May 2015 - Now
+  location: Iasi, RO (remote)
+  when: May 2015 - May 2016
   desc:
     "We designed a learning process using the latest discoveries in neuroscience to make it easy for you to integrate the process.
-    Startupkit lets you discover the best tools and knowledge, exactly when you need them. We are constantly searching for the best tools and the best knowledge so you can be sure not to miss anything important and spend less time searching but more time actually learning."
+    Startupkit was a startup for startups, empowering entrepreneurs with the best tools and knowledge, exactly when they needed them, so they can focus on learning rather than searching for online resources."
 
 - org:  Chomped
-  role: Co-founder and developer
-  location: Iasi, RO
+  role: Co-founder
+  location: Iasi, RO (remote)
   when: January 2015 - October 2015
   desc:
-    "Chomped is a mobile app built to help users easily order food at any address without any hassle, while also keeping an eye on their diet. It provides integration with iHealth and similar applications
-    to track the eating habbits of each user so they can eat easier and healthier."
-
-- org:  Collide
-  role: Consultant
-  location: Iasi, RO
-  when: May 2015 - September 2015
+    "Chomped is a mobile app built to help users easily order food at any address without any hassle, while also keeping an eye on their diet. It provided integration with Apple Health to track calories intake and a breakdown of the nutrients."
 
 - org: Jivaro
+  url: jivaro.com
   role: Front-end developer
-  location: Iasi, RO
+  location: Iasi, RO (remote)
   when: January 2015 - April 2015

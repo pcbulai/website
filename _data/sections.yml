@@ -4,22 +4,31 @@
 #   id -> used for the CSS id and the yml file name.
 #   layout -> which resume format to use from _includes/resume
 
-- name: Work
-  id: professional
+- name: About Me
+  title: About
+  id: about
+  layout: block
+
+- name: Work experience
+  title: Work
+  id: work
   layout: block
 
 - name: Projects
+  title: Projects
   id: projects
   layout: block
 
 - name: Education
+  title: Education
   id: education
   layout: block
 
 - name: Skills
+  title: Skills
   id: skills
   layout: cloud
 
-# - name: Honors
-#   id: honors
-#   layout: list
+- name: Contact
+  id: contact
+  layout: block

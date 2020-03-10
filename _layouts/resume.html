@@ -4,9 +4,11 @@ layout: main
 <nav class="navdrawer-container promote-layer">
     <ul class="nav">
         {% for section in site.data.sections %}
+            {% if section.id != 'contact' %}
             <li><a href="#{{ section.id }}" class="to-{{ section.id }}">
-                    {{ section.name }}
+                    {{ section.title }}
             </a></li>
+            {% endif %}
         {% endfor %}
         <li class="right social-items">
           <a href="https://twitter.com/{{ site.twitter }}" target="_blank">
@@ -33,6 +35,7 @@ layout: main
 
     </ul>
 </nav>
+<div class="backdrop"></div>
 
 {% for section in site.data.sections %}
   <div class="section section-{{ section.id }}">

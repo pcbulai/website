@@ -1,21 +1,33 @@
 {% for section in blurb %}
     <div class="block">
-        <div class="main-row">
-            <div class="org">
-                <h3 class="heading">{{ section.org }}</h3>
+        {% if section.org || section.when %}
+            <div class="main-row">
+                {% if section.org %}
+                  <div class="org">
+                      <h3 class="heading">{{ section.org }}</h3>
+                  </div>
+                {% endif %}
+                {% if section.when %}
+                    <div class="when">
+                        <h3 class="heading">{{ section.when }}</h3>
+                    </div>
+                {% endif %}
             </div>
-            <div class="when">
-                <h3 class="heading">{{ section.when }}</h3>
+        {% endif %}
+        {% if section.role || section.location %}
+            <div class="sub-row">
+               {% if section.role %}
+                    <div class="role">
+                        <h4 class="heading">{{ section.role }}</h4>
+                    </div>
+                {% endif %}
+                {% if section.location %}
+                    <div class="location">
+                        <h4 class="heading">{{ section.location }}</h4>
+                    </div>
+                {% endif %}
             </div>
-        </div>
-        <div class="sub-row">
-            <div class="role">
-                <h4 class="heading">{{ section.role }}</h4>
-            </div>
-            <div class="location">
-                <h4 class="heading">{{ section.location }}</h4>
-            </div>
-        </div>
+        {% endif %}
 
         {% if section.desc %}
         <div class="sub-row">

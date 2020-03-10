@@ -1,0 +1,49 @@
+- org:  Doublemap, Inc
+  role: Lead Frontend developer
+  location: Iasi, RO (remote)
+  when: January 2016 - Now
+  desc: "DoubleMap provides a comprehensive suite of intelligent transportation solutions for municipal transit fleets, university systems, corporations, hospitals and airports. Each product has unprecedented integration within the DoubleMap ecosystem, so administrators can effectively manage their fleet from a unified location in real-time.
+
+
+  As part of our collaboration I was tasked with:"
+  bullets:
+    - Redesigning the admin application;
+    - Redesignning the user application;
+    - Building a turn-by-turn navigation app used for vehicle drivers' training;
+    - Implementing WCAG 2.0 guidelines in both admin and user applications;
+    - Improving web app performance;
+    - Building an internal software feedback library;
+    - Building a mobile app for public transportation bus ticketing(buying, tracking, onboarding);
+    - Naturally, bug fixing is my middle name.
+
+- org:  Xivic, Inc
+  role: Lead Frontend developer
+  location: Iasi, RO (onsite)
+  when: Jan 2015 - November 2015
+  desc: Xivic is a small digital agency with clients. During our collaboration I was directly responsible of a small team of developers focused on what was at the time the company's biggest client, Meineke. Our main goal was to build them a webapp where users could search and locate nearby service shops, book a visit, track the progress and pay for the services.
+
+- org: dotBlue
+  role: Frontend developer
+  location: Iasi, RO (remote)
+  when: Mar 2014 - December 2014
+  desc: During my collaboration with dotBlue my main objective was to build a payrolling application for the dutch market. Besides that I helped with adding new-age features to older websites and implement custom features in Magento based websites.
+
+- org: Silentale, Inc
+  role: Frontend developer
+  location: Iasi, RO (remote)
+  when: July 2012 - November 2013
+  desc:
+    "Silentale played a huge role in my career, making me step from a junior to a much, much more experienced developer while increasingly harder challenges came along. I had to deal with large-scale applications, big-data platform, and none of the challenges could just pass by me.
+
+
+    It was here that I fell in love with bleeding edge technologies like Sass, Stylus, AngularJS, Zurb Foundation, HAML, Handlebars, Yeoman and Grunt."
+
+- org: FlashXML.net
+  role: Web Developer
+  location: Iasi, RO
+  when: March 2011 - November 2011 (onsite)
+  desc:
+    "At FlashXML I focused on developing WordPress Themes and offering support for them when the Support department couldn't solve the clients needs and questions. Other than that, I used to maintain and extend the official website and blog, and from time to time I had develop newsletters.
+
+
+    This job helped me develop a sense for high quality web applications and also learn a lot about web standards, communicating with users and managing projects."

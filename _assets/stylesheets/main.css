@@ -52,21 +52,6 @@ body {
   transform: translate(250px, 0);
 }
 
-.app-bar .logo {
-  -webkit-flex: 1;
-  flex: 1;
-  font-size: 2em;
-  line-height: 60px;
-  margin: 0 16px;
-  padding: 0;
-  color: #fefefe;
-  float: none;
-  max-width: none;
-  font-family: 'Roboto Condensed', 'Helvetica Neue', Helvetica, sans-serif;
-  font-weight: 300;
-  line-height: 60px;
-}
-
 .app-bar .logo a {
   text-decoration: none;
   color: inherit;

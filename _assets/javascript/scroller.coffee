@@ -10,9 +10,12 @@ $ ->
         $spy = $(@).scrollspy 'refresh'
 
     $('.to-' + label).click ->
+      offset = $('#' + label).offset().top - $('.navbar').height() - 2
+      if(window.innerWidth < 767)
+        offset = $('#' + label).offset().top - $('.navbar').height() - 62
 
       $('html, body').animate
-        scrollTop: $('#' + label).offset().top - $('.navbar').height() - 2
+        scrollTop: offset
         1000
 
       $('[data-spy=\'scroll\']').each ->

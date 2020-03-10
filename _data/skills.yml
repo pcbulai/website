@@ -3,39 +3,26 @@
       - HTML
       - CSS
       - Javascript
+      - CoffeeScript
     secondary:
       - Bash
       - PHP
       - Ruby
+      - Python
       - Matlab
-- Frameworks:
+- Frameworks & libraries:
     primary:
       - jQuery
-      - Ionic Framework
-      - AngularJS
-      - SASS
-      - LESS
+      - React Native
+      - Angular
+      - SASS/LESS
+      - Google Maps
+      - Leaflet
     secondary:
-      - EmberJS
-      - RequireJS
+      - DataTables
+      - Footables
+      - SlickGrid
       - Jade
       - Handlebars
-      - LoDash
-      - DataTables
       - Cordova
       - PhoneGap
-- Tools:
-    primary:
-      - Gulp
-      - Grunt
-      - Yeoman
-    secondary:
-      - NPM
-- Systems:
-    primary:
-      - MacOS
-      - Debian
-      - Fedora
-    secondary:
-      - Vagrant
-      - Windows
