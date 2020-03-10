@@ -11,16 +11,16 @@
     - Redesigning the user application;
     - Building a turn-by-turn navigation app used for vehicle drivers' training;
     - Implementing WCAG 2.0 guidelines in both admin and user applications;
-    - Improving web app performance;
+    - Improving web appplications performance;
     - Building an internal software feedback library;
-    - Building a mobile app for public transportation bus ticketing (buying, tracking, onboarding);
+    - Building a mobile application for public transportation bus ticketing (buying, tracking, onboarding);
     - Naturally, bug fixing is my middle name.
 
 - org:  Xivic, Inc
   role: Lead Frontend developer
   location: Iasi, RO (onsite)
   when: Jan 2015 - November 2015
-  desc: Xivic is a small digital agency with clients. During our collaboration I was directly responsible of a small team of developers focused on what was at the time the company's biggest client, Meineke. Our main goal was to build them a webapp where users could search and locate nearby service shops, book a visit, track the progress and pay for the services.
+  desc: Xivic is a small digital agency with clients. During our collaboration I was directly responsible of a small team of developers focused on what was at the time the company's biggest client, Meineke. Our main goal was to build them a web application where users could search and locate nearby service shops, book a visit, track the progress and pay for the services.
 
 - org: dotBlue
   role: Frontend developer

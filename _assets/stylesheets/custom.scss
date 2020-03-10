@@ -286,7 +286,8 @@ h1.logo {
   .my-face {
     display: none;
   }
-  a {
+  a,
+  a:visited {
     color: $blue;
     text-decoration: none;
   }
